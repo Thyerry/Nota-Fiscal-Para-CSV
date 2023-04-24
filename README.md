@@ -18,6 +18,3 @@ Isso irá baixar as dependências que a aplicação precisa para funcionar. Depo
 ```
 node index.js
 ```
-26230420300157001030651030000579881965226323
-
-http://localhost:3000/?p=26230420300157001030651030000579881965226323
